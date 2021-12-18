@@ -16,6 +16,9 @@
   <p>Repositório destinado aos arquivos do curso de React Hooks do meu canal no YouTube, <a href="https://www.youtube.com/watch?v=1zI6FUFF83I&list=PLWXw8Gu52TRKOXf7qaBg5FEUgiW1lJyQb">clique aqui</a> para acessar playlist.</p>
   <br>
   <br>
+</div>
+
+
   
   <div align="left">
     <p>Tópicos vistos no curso:</p>
@@ -31,4 +34,3 @@
     + Trabalhando com useMemo;
     + Projeto final, criando uma aplicação CRUD.
     </div>
-</div>
