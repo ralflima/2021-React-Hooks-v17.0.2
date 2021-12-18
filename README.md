@@ -17,7 +17,7 @@
   <br>
   <br>
   
-    <p>Tópicos vistos no curso:</p>
+    #Tópicos vistos no curso:
 
     + Conceitos;
     + Configurando o ambiente;
