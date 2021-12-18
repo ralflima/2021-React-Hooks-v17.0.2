@@ -17,7 +17,7 @@
   <br>
   <br>
   
-    ##Tópicos vistos no curso:
+    ## Tópicos vistos no curso:
 
     + Conceitos;
     + Configurando o ambiente;
