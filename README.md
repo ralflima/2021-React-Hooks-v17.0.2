@@ -17,7 +17,7 @@
   <br>
   <br>
   
-  <div>
+  <div align="left">
     <p>Tópicos vistos no curso:</p>
 
     + Conceitos;
