@@ -17,7 +17,6 @@
   <br>
   <br>
   
-  <div align="left">
     <p>Tópicos vistos no curso:</p>
 
     + Conceitos;
@@ -30,5 +29,5 @@
     + Manipulando o useCallback;
     + Trabalhando com useMemo;
     + Projeto final, criando uma aplicação CRUD.
-    </div>
+    
 </div>
