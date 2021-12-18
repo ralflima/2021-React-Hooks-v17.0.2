@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ralflima/react_hooks/blob/master/conceitos/src/logo.svg" width="30%">
-  <h1 style="border-bottom:none">React Hooks - Conceitos</h1>
+  <h1 style="border-bottom:none">React Hooks</h1>
   <p>Instrutor: Ralf Lima</p>
   
   <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ">
@@ -14,4 +14,17 @@
   <br>
   <br>
   <p>Repositório destinado aos arquivos do curso de React Hooks do meu canal no YouTube, <a href="https://www.youtube.com/watch?v=1zI6FUFF83I&list=PLWXw8Gu52TRKOXf7qaBg5FEUgiW1lJyQb">clique aqui</a> para acessar playlist.</p>
+  <br>
+  <br>
+  <p>Tópicos vistos no curso:</p>
+  - Conceitos;
+  - Configurando o ambiente;
+  - Utilizando useState;
+  - Implementando useEffect;
+  - Exemplo prático de useContext;
+  - Trabalhando com useRef;
+  - Hook useReducer;
+  - Manipulando o useCallback;
+  - Trabalhando com useMemo;
+  - Projeto final, criando uma aplicação CRUD.
 </div>
