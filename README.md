@@ -13,20 +13,19 @@
   
   <br>
   <br>
-  <p>Repositório destinado aos arquivos do curso de React Hooks do meu canal no YouTube, <a href="https://www.youtube.com/watch?v=1zI6FUFF83I&list=PLWXw8Gu52TRKOXf7qaBg5FEUgiW1lJyQb">clique aqui</a> para acessar playlist.</p>
+  <p>Repositório destinado aos arquivos do curso de React Hooks do meu canal no YouTube, <a href="https://www.youtube.com/watch?v=1zI6FUFF83I&list=PLWXw8Gu52TRKOXf7qaBg5FEUgiW1lJyQb">clique aqui</a> para acessar a playlist.</p>
   <br>
-  <br>
+  
+  <p>Tópicos abordados:</p>
+  
+   + Conceitos;
+   + Configurando o ambiente;
+   + Utilizando useState;
+   + Implementando useEffect;
+   + Exemplo prático de useContext;
+   + Trabalhando com useRef;
+   + Hook useReducer;
+   + Manipulando o useCallback;
+   + Trabalhando com useMemo;
+   + Projeto final, criando uma aplicação CRUD.
 </div>
-
-    ## Tópicos vistos no curso:
-
-    + Conceitos;
-    + Configurando o ambiente;
-    + Utilizando useState;
-    + Implementando useEffect;
-    + Exemplo prático de useContext;
-    + Trabalhando com useRef;
-    + Hook useReducer;
-    + Manipulando o useCallback;
-    + Trabalhando com useMemo;
-    + Projeto final, criando uma aplicação CRUD.
