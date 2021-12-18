@@ -17,14 +17,14 @@
   <br>
   <br>
   <p>Tópicos vistos no curso:</p>
-  - Conceitos;
-  - Configurando o ambiente;
-  - Utilizando useState;
-  - Implementando useEffect;
-  - Exemplo prático de useContext;
-  - Trabalhando com useRef;
-  - Hook useReducer;
-  - Manipulando o useCallback;
-  - Trabalhando com useMemo;
-  - Projeto final, criando uma aplicação CRUD.
+  * Conceitos;
+  * Configurando o ambiente;
+  * Utilizando useState;
+  * Implementando useEffect;
+  * Exemplo prático de useContext;
+  * Trabalhando com useRef;
+  * Hook useReducer;
+  * Manipulando o useCallback;
+  * Trabalhando com useMemo;
+  * Projeto final, criando uma aplicação CRUD.
 </div>
